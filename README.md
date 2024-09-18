@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm Muhammad Saleh, a skilled front-end developer currently working with HTML, CSS, JavaScript, Bootstrap, PHP, WordPress, and the MERN stack (React, Node.js, MongoDB). I have experience in converting prototypes (Figma, XD, PSD) into fully custom-coded websites. I pride myself on delivering responsive, user-friendly websites that captivate audiences.<br><br>I am looking to collaborate on custom website development projects, especially in business, real estate, and portfolio niches. Whether it’s creating functional landing pages or redesigning and duplicating websites, I excel in crafting seamless web experiences on freelancing platforms like Upwork.<br><br>I’m eager to help with website optimization, fixing bugs, and improving site functionality while ensuring that websites not only look great but perform flawlessly. I also offer basic on-page SEO to enhance visibility.<br><br>Currently, I’m expanding my skills by learning React, Node.js, and MongoDB, and I’m always excited to explore more programming languages to sharpen my expertise.<br><br>Feel free to ask me about my experience in website redesigns, prototype conversions, and WordPress development. I’m passionate about delivering high-quality results for every project I undertake.<br><br>I've built multiple landing pages and functional websites across various niches, and I’m passionate about combining aesthetics with performance to deliver the best results for my clients.
+💻 I'm Muhammad Saleh, a skilled front-end developer currently working with HTML, CSS, JavaScript, Bootstrap, PHP, WordPress, and the MERN stack (React, Node.js, MongoDB). I have experience in converting prototypes (Figma, XD, PSD) into fully custom-coded websites. I pride myself on delivering responsive, user-friendly websites that captivate audiences.
+<br><br>
+🤝 I am looking to collaborate on custom website development projects, especially in business, real estate, and portfolio niches. Whether it’s creating functional landing pages or redesigning and duplicating websites, I excel in crafting seamless web experiences on freelancing platforms like Upwork.
+<br><br>
+🔧 I’m eager to help with website optimization, fixing bugs, and improving site functionality while ensuring that websites not only look great but perform flawlessly. I also offer basic on-page SEO to enhance visibility.
+<br><br>
+📚 Currently, I’m expanding my skills by learning React, Node.js, and MongoDB, and I’m always excited to explore more programming languages to sharpen my expertise.
+<br><br>
+❓ Feel free to ask me about my experience in website redesigns, prototype conversions, and WordPress development. I’m passionate about delivering high-quality results for every project I undertake.
+<br><br>
+🎉 I've built multiple landing pages and functional websites across various niches, and I’m passionate about combining aesthetics with performance to deliver the best results for my clients.
 
 
 ## 🌐 Socials:
